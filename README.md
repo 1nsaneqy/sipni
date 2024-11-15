@@ -1,5 +1,3 @@
-# sipni
-💉 - Checker Login SI-PNI ! 🩸 
 # SI-PNI Checker + Consulta CPF (Completa) 🩸
 
 O [**SI-PNI**](https://si-pni.saude.gov.br/) é o site com a maior DataBase **Nacional**. Basicamente feito para consultar CPF's, Vacinas (dados pessoais..) !
